@@ -52,7 +52,7 @@ year = {2023}
 ### Database
 ![image](./images/database.jpg)
 
-### A-Star
+### A-Star Search
 ![image](./images/a_star.jpg)
 
 
@@ -63,7 +63,7 @@ year = {2023}
 
 
 
-## User Interface designing
+## User Interface Designing
 
 ![image](./images/gui.jpg)
 
